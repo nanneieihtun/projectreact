@@ -1,0 +1,22 @@
+.profile {
+    min-height: 100vh;
+    background: rgb(217, 217, 243);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0px;
+}
+
+.tweet {
+    height: 230px;
+    width: 300px;
+    background: rgb(87, 75, 83);
+    border-radius: 10px;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    align-content: space-around;
+    text-align: center;
+    margin-top: -300px;
+    padding-top: 35px;
+}

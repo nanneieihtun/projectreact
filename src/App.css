@@ -1,0 +1,44 @@
+.App {
+    min-height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navApp {
+    text-align: center;
+}
+
+.border {
+    background-color: #282c34;
+}
+
+.title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+    margin-top: 50px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(57, 57, 66);
+    color: white;
+}
+
+.nav-links {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
